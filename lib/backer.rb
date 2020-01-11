@@ -14,6 +14,4 @@ class Backer
     Project.add_backer << name
   end
 
-  def
-
 end
