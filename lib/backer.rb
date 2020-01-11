@@ -9,7 +9,7 @@ class Backer
 
   # takes in a Project instance and adds the project to its @backed_projects attribute.
   def back_project()
-    @backed_projects << 
+    @backed_projects <<
   end
 
 end
